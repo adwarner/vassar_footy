@@ -82,7 +82,6 @@ numpydoc==0.6.0
 odo==0.3.4
 openpyxl==2.2.6
 Orange==2.7.8
-pandas==0.19.1
 path.py==0.0.0
 patsy==0.4.0
 Pattern==2.6
